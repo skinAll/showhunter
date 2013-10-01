@@ -33,6 +33,11 @@ public class MainActivity extends Activity {
 			
 			
 			break;
+		case R.id.LinearLayout1:
+			
+			
+			
+			break;
 		
 		
 			
