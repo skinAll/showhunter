@@ -32,7 +32,14 @@ public class MainActivity extends Activity {
 			finish();
 			
 			break;
+		case R.id.btn01:
+			
+			finish();
+			
+			break;
 
+			
+			
 		default:
 			break;
 		}
