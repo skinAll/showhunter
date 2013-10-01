@@ -30,7 +30,7 @@ public class MainActivity extends Activity {
 		switch (v.getId()) {
 		case R.id.btn:
 			
-			finish();
+			
 			
 			break;
 		
