@@ -1,5 +1,6 @@
 package com.example.showhunt;
 
+import android.R.anim;
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
@@ -33,7 +34,13 @@ public class MainActivity extends Activity {
 			
 			break;
 		
+		case anim.accelerate_decelerate_interpolator:
 			
+			finish();
+			
+			break;
+			
+		
 			
 		default:
 			break;
