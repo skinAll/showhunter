@@ -34,7 +34,6 @@ public class MainActivity extends Activity {
 			break;
 		case R.id.btn01:
 			
-			finish();
 			
 			break;
 
