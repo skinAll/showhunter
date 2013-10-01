@@ -34,11 +34,7 @@ public class MainActivity extends Activity {
 			
 			break;
 		
-		case anim.accelerate_decelerate_interpolator:
-			
-			finish();
-			
-			break;
+		
 			
 		
 			
